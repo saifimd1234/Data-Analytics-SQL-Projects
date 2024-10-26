@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"company_id","INTEGER","5","5","0"
+"name","STRING","96","0","0"
+"link","STRING","125","0","0"
+"link_google","STRING","252","0","0"
+"thumbnail","STRING","113","0","0"
